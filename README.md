@@ -27,7 +27,7 @@ Shor's algorithm is a quantum algorithm developed by mathematician Peter Shor in
 ### What is a Quantum Circuit?
 A quantum circuit is a model used to represent and perform quantum computations. It consists of quantum gates that manipulate qubits to perform operations such as superposition, entanglement, and measurement. Quantum circuits are analogous to classical circuits in classical computing and are fundamental to quantum algorithms.
 
-## Let's Simulate a Quantum Circuit
+## Simulatin of a Quantum Circuit
 In this repository, you'll find examples and simulations of quantum circuits implemented using quantum computing framework, such as Qiskit. Feel free to explore and experiment with the provided code to gain insights into quantum computation.
 
 ## Summary
