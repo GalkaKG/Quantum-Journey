@@ -1,8 +1,6 @@
 # Quantum-Journey
 A detailed exploration for understanding and implementing quantum computing, algorithm simulations and visualizations.
 
-# Quantum Computing Project
-
 ## Introduction
 Welcome to the Quantum Computing Project repository! This project aims to explore various aspects of quantum computing, including fundamental concepts, algorithms, and applications. Whether you're a beginner or an enthusiast, this repository serves as a comprehensive resource to dive into the fascinating world of quantum computing.
 
